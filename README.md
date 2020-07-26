@@ -1,5 +1,4 @@
 ### Hola! 👋
-<--
 - 🔭 I’m currently pursuing B.Tech. in E&CE at NIT Hamirpur.
 - 🌱 I’m currently learning ML.
 <-- - 👯 I’m looking to collaborate on -->
