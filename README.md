@@ -5,3 +5,4 @@
 - 🤔 I’m looking for help with Microsoft Azure
 - 💬 Ask me about Web Developement, Ilustrations....
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aniket-srivastava-63544b171/">LinkedIn</a>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
