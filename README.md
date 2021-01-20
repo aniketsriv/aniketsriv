@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aniket!</h2>
-<img align='right' src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="230">
+<img align='right' src="https://onlinepngtools.com/images/examples-onlinepngtools/sunset.gif" width="230">
 <p><em>Junior year student at <a href="http://nith.ac.in">NIT Hamirpur</a></em></p>
 
 [![Linkedin: aniketsriv](https://img.shields.io/badge/-aniketsriv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-srivastava-63544b171/)](https://www.linkedin.com/in/aniket-srivastava-63544b171/)
