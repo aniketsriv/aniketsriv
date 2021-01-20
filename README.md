@@ -1,13 +1,24 @@
-<html lang="en">
-  <head>
-    <meta charset='utf-8'>
-  </head>
-  <body>
-    <h2>Hola! 👋</h2>
-    <p>- 🔭 I’m currently pursuing B.Tech. in E&CE at NIT Hamirpur.</p>
-    <p>- 💬 Ask me about Python, OpenCV, Ilustrations....</p>
-    <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/aniket-srivastava-63544b171/">LinkedIn</a></p>
-  </body>
-  
+<h2> Hi, I'm Aniket!</h2>
+<img align='right' src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="230">
+<p><em>Junior year student at <a href="http://nith.ac.in">NIT Hamirpur</a></em></p>
+
+[![Linkedin: aniketsriv](https://img.shields.io/badge/-aniket-srivastava-63544b171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-srivastava-63544b171/)](https://www.linkedin.com/in/aniket-srivastava-63544b171/)
+[![GitHub aniketsriv](https://img.shields.io/github/followers/aniketsriv?label=follow&style=social)](https://github.com/aniketsriv)
 
 
+### A little more info...  
+
+```javascript
+const aniket = {
+  pronouns: "he",
+  code: [Python, C/C++, HTML, CSS],
+  tools: [Arduino, OrCAD, Tanner, MATLAB],
+  other: [Data Structures, Linux, MS Office, Adobe Illustrator, Markdown]
+  techCommunities: {
+                        core-coordinator: "Team Vibhav, NIT Hamirpur",
+                        ambassador: "MLSA'20",
+                      },
+}
+```
+
+---
