@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="230">
 <p><em>Junior year student at <a href="http://nith.ac.in">NIT Hamirpur</a></em></p>
 
-[![Linkedin: aniketsriv](https://img.shields.io/badge/-aniket-srivastava-63544b171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-srivastava-63544b171/)](https://www.linkedin.com/in/aniket-srivastava-63544b171/)
+[![Linkedin: aniketsriv](https://img.shields.io/badge/-aniketsriv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-srivastava-63544b171/)](https://www.linkedin.com/in/aniket-srivastava-63544b171/)
 [![GitHub aniketsriv](https://img.shields.io/github/followers/aniketsriv?label=follow&style=social)](https://github.com/aniketsriv)
 
 
