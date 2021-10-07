@@ -11,12 +11,12 @@
 ```javascript
 const aniket = {
   pronouns: "he",
-  code: [Python, C/C++, HTML, CSS],
-  tools: [Arduino, OrCAD, Tanner, MATLAB],
+  languages: [Python, C++, HTML, CSS],
+  tools: [Arduino, OrCAD, MATLAB, Simulink, PyTorch],
   other: [Data Structures, Linux, MS Office, Adobe Illustrator, Markdown]
   techCommunities: {
                         core-coordinator: "Team Vibhav, NIT Hamirpur",
-                        ambassador: "MLSA'20",
+                        ambassador: "Microsoft Learn'21",
                       },
 }
 ```
