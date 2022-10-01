@@ -10,18 +10,18 @@
 
 ```javascript
 const aniket = {
-  code: [Python, C/C++, PL/SQL],
+  code: [Python, C/C++, PL-SQL],
   tools: [Arduino, LabVIEW, MATLAB],
   other: [Data Structures, Linux, DBMS, MS Office, Adobe Illustrator, Markdown]
   experiences: {
-                        intern: "ORACLE",
-                        intern: "IIT Guwahati"
+                        project-intern: "ORACLE",
+                        ml-intern: "IIT Guwahati"
                       },
   Communities: {
                         placement-representative: "NIT Hamirpur",
                         secretary-departmental: "NIMBUS, NIT Hamirpur",
                         core-coordinator: "Team Vibhav, NIT Hamirpur",
-                        ambassador: "MLSA'21"
+                        ambassador: "MLSA'22"
                       },
 }
 ```
