@@ -10,11 +10,11 @@
 
 ```javascript
 const aniket = {
-  code: [Python, C/C++, PL-SQL],
-  tools: [Arduino, LabVIEW, MATLAB],
+  code: [Python, C, C++, PL-SQL],
+  tools: [Arduino, LabVIEW, SHELL],
   other: [Data Structures, Linux, DBMS, MS Office, Adobe Illustrator, Markdown]
   experiences: {
-                        project-intern: "ORACLE",
+                        project-intern: "Oracle Corporation",
                         ml-intern: "IIT Guwahati"
                       },
   Communities: {
