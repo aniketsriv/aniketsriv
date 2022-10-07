@@ -6,7 +6,7 @@
 [![GitHub aniketsriv](https://img.shields.io/github/followers/aniketsriv?label=follow&style=social)](https://github.com/aniketsriv)
 
 
-### A little more info...  
+### A little more info...  :)
 
 ```javascript
 const aniket = {
